@@ -13,7 +13,7 @@ The analysis reproduces the graphs with the Maslov-Sneppen algorithm while prese
 
 You can run the notebook file to execute full analysis that the paper contains.
 
-# Please cite the original paper when using the content:
+# Please cite this repository when using the content:
 
 ```latex
 @misc{ozturk2021_crime,
