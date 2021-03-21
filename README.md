@@ -1,7 +1,9 @@
 # CRIME NETWORK ANALYSIS
 This has been made as the final project of ITU - Graph Theory course. This repository provides an experimental analysis script for following data:
 
-> https://networkrepository.com/ia-enron-only.php
+![fig1](./sources/summary.png)
+
+> https://networkrepository.com/ia-enron-only.php </br>
 > https://zenodo.org/record/3938818
 
 The analysis reproduces the graphs with the Maslov-Sneppen algorithm while preserving certain conditions. It compares the produced synthetic graphs with the original graphs according to the "Local Efficiency", "Global Efficiency" and "Clustering Coefficient" criteria. Benchmark results are evaluated and interpreted.
