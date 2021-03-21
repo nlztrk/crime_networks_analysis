@@ -1,7 +1,8 @@
 # CRIME NETWORK ANALYSIS
-This has been made as the final project of ITU - Graph Theory course. This repository provides an experimental analysis script for following data:
 
 ![fig1](./sources/summary.png)
+
+This has been made as the final project of ITU - Graph Theory course. This repository provides an experimental analysis script for following data:
 
 > https://networkrepository.com/ia-enron-only.php </br>
 > https://zenodo.org/record/3938818
